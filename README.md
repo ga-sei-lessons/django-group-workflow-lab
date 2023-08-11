@@ -170,3 +170,6 @@ Your team needs to elect a `git manager` who will be responsible for creating th
 
 ## Resources
 
+* [Team Workflow Cheatsheet](https://gasei.gitbook.io/sei/01-workflow/01readme-1/04teamwork)
+* [Git Resources Lessons](https://git.generalassemb.ly/SEIR-Mariposa/Git-GitHub-Fundamentals/blob/main/6.%20Git%20Team%20Workflows.md)
+
