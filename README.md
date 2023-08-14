@@ -76,7 +76,7 @@ Your team needs to elect a `git manager` who will be responsible for creating th
      git commit -m "Initial commit"
      git push origin main
      ```
-5. Merge in PRs
+5. **Merge in PRs**
    - When a collaborator informs you that they have opened up a PR merge it on github and inform your group that there are changes ready to be pulled down.
    - To pull the changes to your local machine, run the following:
    ```
@@ -91,7 +91,7 @@ Your team needs to elect a `git manager` who will be responsible for creating th
    git checkout feature-branch
    git merge main
    ```
-6. When submitting your own commits:
+6. **When submitting your own commits:**
    - Option 1: Commit and push your changes to your fork's `feature-branch` branch using:
    ```
    git add .
