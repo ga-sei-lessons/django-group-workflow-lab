@@ -108,7 +108,6 @@ Your team needs to elect a `git manager` who will be responsible for creating th
     git push origin main
    ```
    - inform your group that you have pushed new changes on to upstream.
-   -
 
 #### Collaborators: Forking and Setting Upstream
 
